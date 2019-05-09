@@ -1,5 +1,8 @@
 # aem-clientlib-generator
 
+NPM version outdated
+Bump revision release
+
 A node plugin that creates ClientLib configuration files (repository nodes) for
 [AEM Client Libraries](https://helpx.adobe.com/experience-manager/6-3/sites/developing/using/clientlibs.html),
 creates _Client Library Folders_ and synchronizes all assets.
